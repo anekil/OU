@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("*Hello, World!*\n");
-    printf("What a wonderful day ");
+    printf("[Hello, World!]\n");
     printf(":)");
-    printf("\n* * *");
     return 0;
 }
